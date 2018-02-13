@@ -15,7 +15,7 @@ public class SpringDocBotApplication {
     private static final Logger logger = LoggerFactory.getLogger(SpringDocBotApplication.class);
 
     /**
-     * Initializ the {@code MessengerSendClient}.
+     * Initializes the {@code MessengerSendClient}.
      *
      * @param pageAccessToken the generated {@code Page Access Token}
      */

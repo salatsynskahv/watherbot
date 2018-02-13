@@ -1,4 +1,4 @@
-package com.facebook.waterbot.domain;
+package com.facebook.waterbot;
 
 import com.github.messenger4j.MessengerPlatform;
 import com.github.messenger4j.send.MessengerSendClient;
